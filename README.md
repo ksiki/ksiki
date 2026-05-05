@@ -1,4 +1,4 @@
-# 👋 Николай Тимощенко  
+# 👋 Николай 
 ### Python Backend Developer
 
 📧 v.hitonoseri@gmail.com  
