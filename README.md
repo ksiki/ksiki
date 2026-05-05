@@ -27,8 +27,11 @@
 - S3
 - Pandas
 
-### DevOps / Orchestration
+### DevOps
 - Docker
+
+### Quality Assurance
+- Pytest
 
 ---
 
