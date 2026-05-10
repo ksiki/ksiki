@@ -21,6 +21,7 @@
 - RabbitMQ
 
 ### Data 
+- Alembic
 - PostgreSQL (SQL)
 - Apache Airflow
 - Redis
