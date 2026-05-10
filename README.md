@@ -22,7 +22,7 @@
 
 ### Data 
 - Alembic
-- PostgreSQL (SQL)
+- PostgreSQL
 - Apache Airflow
 - Redis
 - S3
