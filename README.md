@@ -2,7 +2,8 @@
 ### Python Backend Developer
 
 📧 v.hitonoseri@gmail.com  
-🔗 Telegram: https://t.me/ktsiki
+🌐 [Telegram](https://t.me/ktsiki)
+🌐 [LinkedIn](www.linkedin.com/in/ksiki)
 
 ---
 
