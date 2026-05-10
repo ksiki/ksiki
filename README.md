@@ -1,9 +1,7 @@
 # 👋 Николай 
 ### Python Backend Developer
 
-📧 v.hitonoseri@gmail.com  
-🌐 [Telegram](https://t.me/ktsiki)
-🌐 [LinkedIn](www.linkedin.com/in/ksiki)
+📧 v.hitonoseri@gmail.com | 🌐 [Telegram](https://t.me/ktsiki) | 🌐 [LinkedIn](https://www.linkedin.com/in/ksiki)
 
 ---
 
