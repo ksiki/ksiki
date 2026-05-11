@@ -27,8 +27,10 @@
 - S3
 - Pandas
 
-### DevOps
+### CI/CD
 - Docker
+- GitHub Actions
+- GitLab CI
 
 ### Quality Assurance
 - Pytest
