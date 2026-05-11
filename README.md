@@ -29,7 +29,6 @@
 
 ### CI/CD
 - GitHub Actions
-- GitLab CI
 
 ### Quality Assurance
 - Pytest
