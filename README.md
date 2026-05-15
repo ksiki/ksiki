@@ -37,17 +37,17 @@
 - Docker
 
 ---
-
 ## 🚀 Проекты
-- [WHILE(WORK)](https://github.com/ksiki/whilework-app)
-  Агрегатор вакансий на Django и Airflow. Планируется сделать агрегатор, который будет парсить вакансии напрямус с сайтов компаний (Использовать AI, т.к. все источники/сайты максимально отличаются друг от друга), ТГ каналов без сторонних агрегаторов 
+
+- [WHILE(WORK)](https://github.com/ksiki/whilework-app)  
+  Агрегатор вакансий на Django и Airflow. Планируется сделать агрегатор, который будет парсить вакансии напрямую с сайтов компаний (использовать AI, так как все источники максимально отличаются друг от друга) и Telegram-каналов без сторонних агрегаторов.
 
 - [Fresh Harvest Service](https://github.com/ksiki/fresh-harvest-service)  
-  Площадка для размещения объявлений о продаже продукции с привязкой к карте  
+  Площадка для размещения объявлений о продаже продукции с привязкой к карте.
 
 - [Async RSS Reader API](https://github.com/ksiki/asyncio-RSS-reader-to-api-service)  
-  Асинхронный RSS-ридер с API для работы с новостями  
-
+  Асинхронный RSS-ридер с API для работы с новостями.
+  
 - [ETL → FastAPI Dashboard](https://github.com/ksiki/lumia-postgres-to-postgres-pipeline)  
   Пайплайн с агрегацией данных и API-доступом через FastAPI  
 
