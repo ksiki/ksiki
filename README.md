@@ -40,7 +40,7 @@
 ---
 ## 🚀 Проекты
 
-- [WHILE(WORK)](https://github.com/ksiki/whilework-app)  
+- [WHILE(WORK)](https://whilework.site/)  
   Агрегатор вакансий на Django и Airflow. Для фильтрации и парсинга данных с вакансий используется LLM.
 
 - [Fresh Harvest Service](https://github.com/ksiki/fresh-harvest-service)  
