@@ -21,12 +21,12 @@
 - RabbitMQ
 
 ### Data 
-- Alembic
 - PostgreSQL
 - Apache Airflow
 - Redis
 - S3
 - Pandas
+- Alembic
 
 ### CI/CD
 - GitHub Actions
@@ -36,6 +36,7 @@
 
 ### Other
 - Docker
+- Grafana
 
 ---
 ## 🚀 Проекты
