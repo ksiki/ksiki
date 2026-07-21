@@ -19,14 +19,14 @@
 - Django
 - FastAPI
 - RabbitMQ
+- Nginx
 
 ### Data 
 - PostgreSQL
 - Apache Airflow
 - Redis
 - S3
-- Pandas
-- Alembic
+- Tortoise ORM
 
 ### CI/CD
 - GitHub Actions
