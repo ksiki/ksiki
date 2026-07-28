@@ -45,7 +45,7 @@
   Сервис посредник для заведений, через который гости могут ставить свои треки в очередь. Основной фреймворк - FastAPI, реализована монолитно-модульная архитектура.
   Сейчас в разработке.
 
-- [WHILE(WORK)](https://whilework.site/)  
+- [WHILE(WORK)](https://github.com/ksiki/whilework-app)
   Агрегатор вакансий на Django и Airflow. Для фильтрации и парсинга данных с вакансий используется LLM.
 
 - [Fresh Harvest Service](https://github.com/ksiki/fresh-harvest-service)  
