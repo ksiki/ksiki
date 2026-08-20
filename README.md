@@ -39,7 +39,7 @@
 
 ## 💻 Другие проекты
 
-- **[TTLcorp JSON Parser](https://github.com/ksiki/TTLcorp-backend-jsonparser)**: Проект полного цикла по разработке JSON-парсера (тестовое задание) на Django, MySQL, Poetry и Docker.
+- **[TTLcorp JSON Parser](https://github.com/ksiki/TTLcorp-backend-jsonparser)**: Проект полного цикла по разработке JSON-парсера (тестовое задание) на Django, MySQL и Docker.
 - **[WHILE(WORK)](https://github.com/ksiki/whilework-app)**: Агрегатор вакансий на Django и Airflow с использованием LLM для парсинга и фильтрации данных.
 - **[Fresh Harvest Service](https://github.com/ksiki/fresh-harvest-service)**: Площадка для объявлений о продаже продукции с привязкой к карте.
 - **[Async RSS Reader API](https://github.com/ksiki/asyncio-RSS-reader-to-api-service)**: Асинхронный RSS-ридер с API для работы с новостями.
