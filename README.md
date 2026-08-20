@@ -1,92 +1,57 @@
-# 👋 Николай 
+# 👋 Николай
 ### Python Backend Developer
 
-📧 v.hitonoseri@gmail.com | 🌐 [Telegram](https://t.me/ktsiki) | 🌐 [LinkedIn](https://www.linkedin.com/in/ksiki)
-
----
+📧 v.hitonoseri@gmail.com | 🌐 [Telegram](https://t.me/ktsiki)
 
 ## 🧑‍💻 О себе
 
-Python Backend-разработчик с опытом полного цикла создания web-приложений. Как автор
-собственных запущенных проектов, умею не только писать чистый код, но и брать на себя
-ответственность за архитектуру, инфраструктуру и финальный релиз. Выстраиваю процессы с
-нуля: от проектирования до настройки и мониторинга. Привык работать автономно, глубоко
-погружаться в бизнес-логику и доводить задачи до конца. Ищу команду, где смогу применить
-свой продуктовый опыт для развития сложного проекта.
-
----
+Привет! Я Python Backend-разработчик с опытом коммерческой разработки около двух лет. Умею не только писать чистый код, но и брать на себя ответственность за весь жизненный цикл приложения: от проектирования архитектуры до настройки инфраструктуры, релиза и мониторинга. Привык глубоко погружаться в бизнес-логику и доводить задачи до конца. Работал как в команде, так и полностью автономно над сложными продуктами. Ищу команду, где смогу применить свой технический опыт для развития классного проекта.
 
 ## ⚙️ Навыки
 
-### Backend
-- Python
-- FastAPI
-- Django
-- RabbitMQ
-- Aiogram
-- Caddy
-- Nginx
+**Backend:** Python, FastAPI, Django, RabbitMQ, Aiogram, Caddy, Nginx  
+**Data:** PostgreSQL, Tortoise ORM, Apache Airflow, Redis, S3 MinIO  
+**CI/CD & DevOps:** GitHub Actions, Docker  
+**Monitoring & Testing:** Prometheus, Grafana, Pytest  
 
-### Data 
-- PostgreSQL
-- Tortoise ORM
-- Apache Airflow
-- Redis
-- S3 MinIO
+## 🚀 Основной проект
 
-### CI/CD
-- GitHub Actions
+- **[PickSong](https://picksong.by)**
+  Мой флагманский проект. Это сервис-посредник для заведений, через который гости могут ставить свои треки в очередь. Бэкенд реализован на FastAPI с монолитно-модульной архитектурой. Клиентскую часть, включая роутинг и компоненты посадочной страницы, написал на Vue.js. Также успешно интегрировал и настроил платежный шлюз ExpressPay. Подготовил всю необходимую нормативную документацию для запуска в качестве ИП. Сейчас проект находится в стадии активной разработки.
 
-### Other
-- Pytest
-- Docker
-- Prometheus
-- Grafana
+## 💼 Опыт работы
 
----
-## 🚀 Проекты
+**Python Backend Developer / Founder** | Pick Song (ИП)
+*Июнь 2026 - Настоящее время*
+Разрабатываю коммерческий продукт с нуля. Отвечаю за архитектуру, бэкенд, клиентскую часть и правовую базу для запуска платформы.
 
-- [PickSong](https://picksong.by)  
-  Сервис посредник для заведений, через который гости могут ставить свои треки в очередь. Основной фреймворк - FastAPI, реализована монолитно-модульная архитектура.
-  Сейчас в разработке.
+**Python Backend Developer** | Ладушки Драйв
+*Апрель 2026 - Июль 2026*
+Создал бэкенд для автопарка и экосистему Telegram-ботов для бронирования на Aiogram. Настроил CI/CD через GitHub Actions, упаковал сервисы в Docker и развернул на VPS.
 
-- [WHILE(WORK)](https://github.com/ksiki/whilework-app)
-  Агрегатор вакансий на Django и Airflow. Для фильтрации и парсинга данных с вакансий используется LLM.
+**Python / Data Engineer** | Яндекс Практикум
+*Февраль 2026 - Апрель 2026*
+Проектная работа. Внедрил автоматизированные ETL-процессы на Apache Airflow и настроил инкрементальную загрузку данных, что снизило нагрузку на БД.
 
-- [Fresh Harvest Service](https://github.com/ksiki/fresh-harvest-service)  
-  Площадка для размещения объявлений о продаже продукции с привязкой к карте.
+**Backend Developer** | GDForge
+*Май 2023 - Август 2024*
+Разрабатывал внутренние инструменты студии. Писал скрипты для анализа логов, оптимизировал сложные SQL-запросы для аналитики, автоматизировал рутинные задачи для команды тестирования.
 
-- [Async RSS Reader API](https://github.com/ksiki/asyncio-RSS-reader-to-api-service)  
-  Асинхронный RSS-ридер с API для работы с новостями.
-  
-- [ETL → FastAPI Dashboard](https://github.com/ksiki/lumia-postgres-to-postgres-pipeline)  
-  Пайплайн с агрегацией данных и API-доступом через FastAPI  
+## 💻 Другие проекты
 
-- [S3 → PostgreSQL ETL Pipeline](https://github.com/ksiki/s3-to-postgres-pipeline)  
-  ETL-пайплайн на Airflow для загрузки данных из S3 в PostgreSQL  
+- **[WHILE(WORK)](https://github.com/ksiki/whilework-app)**: Агрегатор вакансий на Django и Airflow с использованием LLM для парсинга и фильтрации данных.
+- **[Fresh Harvest Service](https://github.com/ksiki/fresh-harvest-service)**: Площадка для объявлений о продаже продукции с привязкой к карте.
+- **[Async RSS Reader API](https://github.com/ksiki/asyncio-RSS-reader-to-api-service)**: Асинхронный RSS-ридер с API для работы с новостями.
+- **[ETL -> FastAPI Dashboard](https://github.com/ksiki/lumia-postgres-to-postgres-pipeline)**: Пайплайн с агрегацией данных и API-доступом через FastAPI.
+- **[S3 -> PostgreSQL ETL Pipeline](https://github.com/ksiki/s3-to-postgres-pipeline)**: ETL-пайплайн на Airflow для загрузки данных.
+- **[New Source -> DWH](https://github.com/ksiki/new-source-to-DWH)**: Добавление нового источника данных и реализация инкрементальной загрузки.
+- **[YouTube Analytics CLI](https://github.com/ksiki/yt-analytics-cli)**: CLI-инструмент для анализа видеоконтента.
 
-- [New Source → DWH](https://github.com/ksiki/new-source-to-DWH)  
-  Добавление нового источника данных и реализация инкрементальной загрузки  
+## 🎓 Образование и сертификаты
 
-- [YouTube Analytics CLI](https://github.com/ksiki/yt-analytics-cli)  
-  CLI-инструмент для анализа видеоконтента  
-
----
-
-## 🎓 Образование
-
-**Инженер-программист**  
-Гомельский Государственный Университет им. Франциска Скорины
-2020 — 2024  
-
----
-
-## 📜 Сертификаты
-
-- Data Engineer — Yandex Practicum (2026)
-
----
+**Инженер-программист** | Гомельский Государственный Университет им. Франциска Скорины (2020 - 2024)  
+**Data Engineer** | Yandex Practicum (2026)  
 
 ## 🌍 Языки
 
-- 🇬🇧 Английский — B1
+- 🇬🇧 Английский - B1
