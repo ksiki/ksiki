@@ -42,19 +42,6 @@
 - Писал и оптимизировал сложные SQL-запросы для выгрузки аналитики.
 - Автоматизировал рутинные задачи по обработке данных для команды тестирования.
 
-## 🚀 Проекты
-
-- **[PickSong](https://picksong.by)**
-  Сложный комплексный проект — сервис-посредник для заведений, через который гости могут ставить свои треки в очередь. Бэкенд реализован на FastAPI с микросервисной архитектурой. Клиентскую часть, включая роутинг и компоненты посадочной страницы, написал на Vue.js. Успешно интегрировал и настроил платежный шлюз ExpressPay.
-- **[TTLcorp JSON Parser](https://github.com/ksiki/TTLcorp-backend-jsonparser)**: Проект полного цикла по разработке JSON-парсера на Django, MySQL и Docker.
-- **[WHILE(WORK)](https://github.com/ksiki/whilework-app)**: Агрегатор вакансий на Django и Airflow с использованием LLM для парсинга и фильтрации данных.
-- **[Fresh Harvest Service](https://github.com/ksiki/fresh-harvest-service)**: Площадка для объявлений о продаже продукции с привязкой к карте.
-- **[Async RSS Reader API](https://github.com/ksiki/asyncio-RSS-reader-to-api-service)**: Асинхронный RSS-ридер с API для работы с новостями.
-- **[ETL -> FastAPI Dashboard](https://github.com/ksiki/lumia-postgres-to-postgres-pipeline)**: Пайплайн с агрегацией данных и API-доступом через FastAPI.
-- **[S3 -> PostgreSQL ETL Pipeline](https://github.com/ksiki/s3-to-postgres-pipeline)**: ETL-пайплайн на Airflow для загрузки данных.
-- **[New Source -> DWH](https://github.com/ksiki/new-source-to-DWH)**: Добавление нового источника данных и реализация инкрементальной загрузки.
-- **[YouTube Analytics CLI](https://github.com/ksiki/yt-analytics-cli)**: CLI-инструмент для анализа видеоконтента.
-
 ## 🎓 Образование и сертификаты
 
 - **Инженер-программист** | Гомельский государственный университет им. Франциска Скорины (2020 — 2024)
